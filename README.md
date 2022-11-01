@@ -7,5 +7,3 @@ I use Brave as my primary browser, and I used to distro-hop, and I recently bork
 I figured I'd write their commands into a bash script so that other users who install Brave frequently just have to run one command.  
   
 To run the script, clone this repository, follow the directory tree to the base for your distrobution, then run `sudo bash braveInstall.sh`.  
-  
-Note: I know that `deb-get` exists, but it wouldn't run on my reinstallation of KDE Neon.
